@@ -1,0 +1,18 @@
+Proyecto para crear una funcion AWS lambda que:
+- Lee y escribe en una base de datos posgresql
+- Lee y escribe en kinesis streams
+- Lee y escribe en DynamoDB
+- Lee y escribe en S3
+- Accede Parameter Store de AWS
+- Accede Secrets Manager de AWS
+- Realiza llamadas a APIs externas
+- Usando Scala 3, ZIO 2, ultima version de AWS SDK, slick, scanao, circe, sttp3
+- Programacion funcional
+- Implementa patrones de diseño
+- Implementa pruebas unitarias
+- Implementa logica de retry
+- Infraestructura definiida por codigo Terraform
+- Deplogable localmente con localstack y docker
+- Implementa logging
+- Consume kinesis streams
+- Produce kinesis streams

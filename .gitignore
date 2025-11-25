@@ -1,0 +1,15 @@
+target/
+.bsp/
+.idea/
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.backup
+.DS_Store
+project/target/
+project/project/
+*.log
+volume/
+.metals/
+.vscode/
+temp_sbt_global/
